@@ -1,0 +1,5 @@
+package com.kn.springIntro.beans;
+
+public class Student {
+
+}

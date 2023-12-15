@@ -1,0 +1,5 @@
+package com.kn.springDependenciyInjection.beans;
+
+public class Laptop {
+
+}

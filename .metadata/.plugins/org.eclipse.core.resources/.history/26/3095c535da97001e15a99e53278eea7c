@@ -1,0 +1,21 @@
+package com.kodnest.hibernate_mappingB;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+import jakarta.persistence.ManyToOne;
+
+@Entity
+public class Product {
+	@Id
+	int pId;
+	String pName;
+	double pCost;
+
+	@ManyToOne
+	Customer cust;
+	
+	public Product() {
+		super();
+	}
+
+}

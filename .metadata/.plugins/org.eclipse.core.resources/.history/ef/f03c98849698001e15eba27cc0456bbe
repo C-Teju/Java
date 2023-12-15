@@ -1,0 +1,5 @@
+package com.kodnest.hibernate_mapping;
+
+public class Employee {
+
+}

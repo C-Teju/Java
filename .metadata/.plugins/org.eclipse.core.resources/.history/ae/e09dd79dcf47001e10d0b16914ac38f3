@@ -1,0 +1,59 @@
+package Anagram;
+
+import java.util.Scanner;
+
+public class Anagram {
+
+	public static void main(String[] args) {
+		Scanner sc=new Scanner(System.in);
+		System.out.println("Enter two stirng");
+		String str1=sc.nextLine();
+		String str2=sc.nextLine();
+		
+		char ar1[]=str1.toCharArray();
+		char ar2[]=str2.toCharArray();
+		int count1=1;
+		for (int i=0;i<=ar1.length-1;i++)
+		{
+			
+			
+			if(ar1[i]!=' ')
+			{
+				for (int j=i+1;j<=ar1.length-1;j++)
+				{
+					if(ar1[i]==ar1[j])
+					{
+						count1++;
+						ar1[j]=' ';
+					}
+				}
+				System.out.print(ar1[i]+" = "+count1);
+			}
+		}	
+		int count2=1;
+		for (int i=0;i<=ar2.length-1;i++)
+		{
+			
+			
+			if(ar2[i]!=' ')
+			{
+				for (int j=i+1;j<=ar2.length-1;j++)
+				{
+					if(ar2[i]==ar2[j])
+					{
+						count2++;
+						ar2[j]=' ';
+					}
+				}
+				System.out.print(ar2[i]+" = "+count2);
+			}
+		}
+		if(ar2==ar1 && count1==count2)
+		{
+			System.out.println("anagram");
+		}
+		else {
+			System.out.println("nat anagram");
+		}
+	}
+}

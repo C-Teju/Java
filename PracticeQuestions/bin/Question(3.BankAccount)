@@ -1,0 +1,21 @@
+Question title: Bank MAnagement
+Question Description:
+
+Create a Java class BankAccount to model a bank account. 
+Include private fields for account number (String) and account 
+holder name (String). Implement encapsulation by providing 
+appropriate getters, setters, and a constructor to set these 
+fields. Write a program to demonstrate the usage of this class.
+
+Boilerplate Code:
+
+public class Main { 
+public static void main(String[] args) {
+ // Your code here 
+ } 
+}
+
+Sample Output:
+
+Account Number: 123456789 
+Account Holder Name: John Doe

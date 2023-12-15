@@ -1,0 +1,24 @@
+package Searching;
+
+import java.util.Scanner;
+//changes in parameters passed
+public class SearchingMain {
+
+	public static void main(String[] args) {
+		Scanner scan=new Scanner(System.in);
+		System.out.println("Enter the element to be searched");
+		int target=scan.nextInt();
+		LinearSearch search=new LinearSearch();
+		boolean result=search.isPresent(target);
+		if (result==true)
+		{
+			System.out.println("Element found");
+		}
+		else
+		{
+			System.out.println("Element not found");
+		}
+	}
+	
+
+}

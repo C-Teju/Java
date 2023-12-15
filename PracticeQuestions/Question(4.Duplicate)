@@ -1,0 +1,6 @@
+1)string without length()
+2)array without length
+3)Write a java program to create an array by taking the size 
+	from the user store string type of elements in the array.
+	find all the duplicate elements and print them in the output
+

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;ReverseWithSpace&apos; to &apos;ReverseSpacePreserved&apos;&#x0D;&#x0A;- Original project: &apos;StringsPractice&apos;&#x0D;&#x0A;- Original element: &apos;StringsPractice/src/ReverseWithSpace&apos;&#x0D;&#x0A;- Renamed element: &apos;StringsPractice/src/ReverseSpacePreserved&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;ReverseWithSpace&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;ReverseWithSpace" name="ReverseSpacePreserved" qualified="false" references="true" stamp="1693290741031" textual="false" version="1.0"/>
+</session>

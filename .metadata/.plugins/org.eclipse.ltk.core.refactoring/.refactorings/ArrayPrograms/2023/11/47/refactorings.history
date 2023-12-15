@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;level1&apos; to &apos;forEachLoop&apos;&#x0D;&#x0A;- Original project: &apos;ArrayPrograms&apos;&#x0D;&#x0A;- Original element: &apos;ArrayPrograms/src/level1&apos;&#x0D;&#x0A;- Renamed element: &apos;ArrayPrograms/src/forEachLoop&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;level1&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;level1" name="forEachLoop" qualified="false" references="true" stamp="1700499807758" textual="false" version="1.0"/>
+</session>

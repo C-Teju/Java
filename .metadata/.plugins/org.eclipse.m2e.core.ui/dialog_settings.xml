@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\tejuc\eclipse-workspace\Marathon2\springDependenciyInjection\src\main\java\com\kn\springDependenciyInjection\beans\Laptop.java"/>
+			<item value="C:\Users\tejuc\eclipse-workspace\Marathon2\springIntro\pom.xml"/>
+			<item value="C:\Users\tejuc\eclipse-workspace\Marathon2\ReadAndWriteFromFile"/>
+			<item value="C:\Users\tejuc\eclipse-workspace\Marathon2\hibernate-mapping-exampleB"/>
+			<item value="C:\Users\tejuc\eclipse-workspace\Marathon2\hibernate-mapping-exampleA\src\main\java\hibernate.cfg.xml"/>
+			<item value="C:\Users\tejuc\eclipse-workspace\Marathon2\hibernate-demo2"/>
+			<item value="C:\Users\tejuc\eclipse-workspace\Marathon2\hibernate-example1"/>
+			<item value="C:\Users\tejuc\eclipse-workspace\Marathon2\hibernate-example"/>
+			<item value="C:\Users\tejuc\eclipse-workspace\Marathon2\PracticeQuestions"/>
+			<item value="C:\Users\tejuc\eclipse-workspace\Marathon2\NonPrimitiveArray"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.kodnest"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="springCollections"/>
+			<item value="springDependenciyInjection"/>
+			<item value="sprinngIntro2"/>
+			<item value="springIntro"/>
+			<item value="hibernate-crud-exampleA"/>
+			<item value="hibernate-mapping-exampleC"/>
+			<item value="hibernate-mapping-exampleB"/>
+			<item value="hibernate"/>
+			<item value="hibernate-mapping-exampleA"/>
+			<item value="hibernate-exampleA"/>
+			<item value="hibernate-example"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

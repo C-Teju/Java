@@ -1,0 +1,5 @@
+package com.kodenst.hibernate.crud;
+
+public class Laptop {
+
+}

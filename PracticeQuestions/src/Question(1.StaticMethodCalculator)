@@ -1,0 +1,38 @@
+1)
+Question Title: Static Method Calculator
+
+Question Description: Create a Java program with a static method 
+that performs a mathematical operation.
+
+Boilerplate Code:
+
+public class Main {
+ // Your code here public static void main(String[] args){ 
+ // Your code here
+  } 
+ }
+
+Sample Input1:
+
+5 3
+
+Sample Output1:
+
+The sum is 8
+
+Sample Input2:
+
+10 11
+
+Sample Output2:
+
+The sum is 21
+
+
+
+
+
+
+
+
+

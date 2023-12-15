@@ -1,0 +1,3 @@
+5)Write a java program to create a string array by taking the size 
+and value as user input and check how many string elements in the array 
+are palindrome.Display the palindrome element and its index in the output

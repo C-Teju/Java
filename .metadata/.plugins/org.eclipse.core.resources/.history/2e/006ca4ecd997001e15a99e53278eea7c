@@ -1,0 +1,5 @@
+package com.kodnest.hibernate_mappingB;
+
+public class Product {
+
+}

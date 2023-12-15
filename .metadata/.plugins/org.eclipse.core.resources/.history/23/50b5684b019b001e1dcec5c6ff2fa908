@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+	<bean id="l1" class="com.kn.springDependenciyInjection.beans.Laptop">
+		<property name="serialNumber" value="1542"></property>
+		<property name="manufacturer" value="Dell"></property>
+		<property name="cost" value="1250929"></property>
+	</bean>
+	
+	
+	<bean id="l2" class="com.kn.springDependenciyInjection.beans.Laptop">
+		<constructor-arg name="serialNumber" value="1654" ></constructor-arg>
+		<constructor-arg name="manufacturer" value="HP" ></constructor-arg>
+		<constructor-arg name="cost" value="1050929" ></constructor-arg>
+	</bean>
+	
+	
+</beans>

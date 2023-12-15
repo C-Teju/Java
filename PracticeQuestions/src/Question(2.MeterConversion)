@@ -1,0 +1,46 @@
+Question Description:
+
+Develop a Java program to convert Meter between Centimeter 
+and Kilometer. The Meter class includes a double value attribute, 
+along with methods to perform conversions. Subclasses Centimeter 
+and Kilometer extend Meter. In the Main class, users input a 
+meter value, and the program converts and displays the value in 
+the opposite unit.
+
+Boilerplate Code:
+
+import java.util.Scanner;
+ class Meter { 
+ double value; 
+ public Meter(double value) { 
+ this.value = value; 
+ } 
+ } 
+ class Centimeter extends Meter { 
+ //fill code 
+ } 
+ class Kilometer extends Meter { 
+ //fill code 
+ } 
+ } 
+ public class Main { 
+ public static void main(String[] args) { 
+ //fill your code here 
+ } 
+ }
+
+Sample Input1:
+
+Kilometer 200
+
+Sample Output1:
+
+Converted Unit :0.2 km
+
+Sample Input2:
+
+Centimeter 200
+
+Sample Output2:
+
+Converted Unit :20000.0 cm

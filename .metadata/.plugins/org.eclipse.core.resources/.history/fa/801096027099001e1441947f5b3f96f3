@@ -1,0 +1,32 @@
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+
+public class InputFileOutputConsole {
+
+	public static void main(String[] args) {
+		String path1= "D:\\FileInputOutput\\ABC.txt";
+		FileReader fr = null;
+		int x;
+		try {
+			fr = new FileReader(path1);
+			BufferedReader br =new BufferedReader(fr);
+			while ((x=br.read())!=-1){
+				System.out.println(x);
+				br.close();
+				fr.close();
+			}
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+			
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		
+	}
+
+}

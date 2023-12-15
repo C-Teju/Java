@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;springCollections/src/main/java/application-coontext.xml&apos; to &apos;application-context.xml&apos;" description="Rename resource &apos;application-coontext.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/application-coontext.xml" name="application-context.xml" stamp="1702614598509" updateReferences="true"/>
+</session>

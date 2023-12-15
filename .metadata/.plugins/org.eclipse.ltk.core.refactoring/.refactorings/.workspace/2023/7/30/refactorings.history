@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;ReverseOfDigits&apos; to &apos;Palindrome&apos;&#x0D;&#x0A;- Original element: &apos;ReverseOfDigits&apos;&#x0D;&#x0A;- Renamed element: &apos;ReverseOfDigits&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;ReverseOfDigits&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=ReverseOfDigits" name="Palindrome" references="true" stamp="1690346023624" version="1.0"/>
+</session>

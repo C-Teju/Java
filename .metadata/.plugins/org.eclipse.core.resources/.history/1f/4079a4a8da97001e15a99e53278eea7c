@@ -1,0 +1,13 @@
+package com.kodnest.hibernate_mappingB;
+
+public class App {
+
+	public static void main(String[] args) {
+		Product p1=new Product();
+		Product p2=new Product();
+		Product p3=new Product();
+		Product p4=new Product();
+		
+	}
+
+}

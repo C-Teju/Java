@@ -1,0 +1,17 @@
+package com.kn.springIntro.main;
+
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+import com.kn.springIntro.beans.Laptop;
+
+
+
+public class Main {
+
+	public static void main(String[] args) {
+		ClassPathXmlApplicationContext context=new ClassPathXmlApplicationContext("application-context.xml");
+		Laptop s1=(Laptop)context.getBean("l1");
+		Laptop s1=(Laptop)context.getBean("l2");
+	}
+
+}

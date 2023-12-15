@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+	<bean id="s1" class="com.kn.springIntro.beans.Student">
+		<property name="rollNumber" value="101"></property>
+		<property name="name" value="Santhu"></property>
+		<property name="marks" value="99"></property>
+	</bean>
+</beans>
+
